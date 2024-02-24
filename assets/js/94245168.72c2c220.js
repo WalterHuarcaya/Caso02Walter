@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocuments_edu=self.webpackChunkdocuments_edu||[]).push([[7666],{2615:e=>{e.exports=JSON.parse('{"permalink":"/Caso02Walter/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

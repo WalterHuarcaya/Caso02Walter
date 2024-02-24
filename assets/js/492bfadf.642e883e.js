@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocuments_edu=self.webpackChunkdocuments_edu||[]).push([[3367],{8226:e=>{e.exports=JSON.parse('{"label":"facebook","permalink":"/Caso02Walter/blog/tags/facebook","allTagsPath":"/Caso02Walter/blog/tags","count":1,"unlisted":false}')}}]);
